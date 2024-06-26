@@ -1,10 +1,10 @@
-##FireFox Mirror
+# FireFox Mirror
 Hopefully a mirror of firefox's Mercurial repo so i can mess with it on github
 
 
 
 
-#BetterFox?
+## BetterFox?
 Fork of Firefox
 Auto update
 Merge some of Firefox changes
