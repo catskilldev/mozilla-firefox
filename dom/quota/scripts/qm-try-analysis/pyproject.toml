@@ -11,7 +11,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 click = "^8.1.7"
-requests = "^2.31.0"
+requests = "^2.32.2"
 bugzilla = "^1.0.0"
 
 [tool.poetry.scripts]
