@@ -1,3 +1,4 @@
+[![Mirror Mozilla Firefox Mercurial](https://github.com/catskilldev/mozilla-firefox/actions/workflows/mirror.yml/badge.svg)](https://github.com/catskilldev/mozilla-firefox/actions/workflows/mirror.yml)
 # FireFox Mirror
 Hopefully a mirror of firefox's Mercurial repo so i can mess with it on github
 
